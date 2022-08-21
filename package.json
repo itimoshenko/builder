@@ -1,0 +1,9 @@
+{
+  "name": "builder",
+  "version": "0.1.0",
+  "description": "Simple builder",
+  "author": "Ivan Timoshenko <tis1993@mail.ru>",
+  "bin": {
+    "builder": "./src/index.js"
+  }
+}
